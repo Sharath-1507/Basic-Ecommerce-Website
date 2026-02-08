@@ -1,0 +1,31 @@
+#main-form input{
+    height: 3vh;
+    width: 10vw;
+}
+
+#form{
+    display: flex;
+}
+
+.container{
+    min-width: 10vw;
+    min-height: 30%;
+}
+#form input{
+    margin-top: 1.5vh;
+    background-color: aqua;
+    width: 20vw;
+    height: 4vh;
+    border-radius: 143px;
+}
+
+#main-form button{
+    min-height: 5vh;
+    width: 15vw;
+    border-radius: 15px
+}
+
+#main-form p{
+    font-size: large;
+}
+

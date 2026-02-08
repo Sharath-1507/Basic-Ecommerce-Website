@@ -1,0 +1,55 @@
+p{
+    font-size: large;
+}
+
+#div-elec{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#div-groc{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#div-fash{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.container{
+    margin: 1%;
+    width: 30%;
+    
+    min-height: 75vh;
+    border-style:solid;
+    text-align: center;
+
+}
+
+
+
+.products-content h1{
+    color: gray;
+    text-align: center;
+}
+
+.container h2{
+    text-align: center;
+}
+
+.container p{
+    margin-left: 1vw;
+    text-align: left;
+}
+
+.container button{
+    min-height: 5vh;
+    width: 10vw;
+    justify-self: center;
+    border-radius: 15px;
+    text-align: center;
+}
